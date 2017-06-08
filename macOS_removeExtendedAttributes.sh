@@ -1,1 +1,0 @@
-xattr -rc dist/
